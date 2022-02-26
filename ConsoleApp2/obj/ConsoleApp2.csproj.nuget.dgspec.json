@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj": {}
+    "C:\\Users\\Sharp\\RiderProjects\\Teams\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj": {
+    "C:\\Users\\Sharp\\RiderProjects\\Teams\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Sharp\\RiderProjects\\Teams\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
-        "packagesPath": "/Users/m0rp3x/.nuget/packages/",
-        "outputPath": "/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp2/ConsoleApp2/obj/",
+        "projectPath": "C:\\Users\\Sharp\\RiderProjects\\Teams\\ConsoleApp2\\ConsoleApp2.csproj",
+        "packagesPath": "C:\\Users\\Sharp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sharp\\RiderProjects\\Teams\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/m0rp3x/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Sharp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/m0rp3x/.dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Sharp\\.dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
